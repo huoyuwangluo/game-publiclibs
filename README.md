@@ -15,4 +15,3 @@
 	- game.js 白鹭引擎游戏扩展库 [game](https://github.com/egret-labs/egret-core/tree/master/build)
 	- md5.js 白鹭引擎加密库 [md5](https://github.com/egret-labs/egret-game-library)
 	- core.js 项目底层JS源码
- - bin-debug  游戏项目JS源码
