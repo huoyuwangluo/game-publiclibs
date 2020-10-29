@@ -1,6 +1,6 @@
 # 游戏源码
  
- - libs 游戏公共库
+ -  游戏公共库
 	- egret.js 白鹭引擎库 [egret](https://github.com/egret-labs/egret-core/tree/master/build)
 	- egret.web.js 白鹭引擎web平台支持库 [egret.web](https://github.com/egret-labs/egret-core/tree/master/build)
 	- finding.js **第三方**寻路库 [PathFinding](https://github.com/qiao/PathFinding.js)
